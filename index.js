@@ -60,7 +60,7 @@ null == r &&
   }),
   r("27Lyk").register(
     JSON.parse(
-      '{"5SCbD":"index.1a740c27.js","kiCgM":"griffintown.be67403f.hdr"}'
+      '{"5SCbD":"index.1a740c27.js","kiCgM":"https://raw.githubusercontent.com/Sohail-Fladdra/bubble/main/griffintown.be67403f.hdr"}'
     )
   );
 /**
